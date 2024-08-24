@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "c5a8811a-6af2-4b27-8538-3a242aef3f79"
+      }
+    },
+    "owner": "morganema"
   }
 }
